@@ -1,0 +1,4 @@
+Arduino 5V   → GPS VCC
+Arduino GND  → GPS GND
+Arduino D4   → GPS TX
+Arduino D3   → GPS RX
